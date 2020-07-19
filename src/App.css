@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../src/Font/OperatorMono-BookItalic.otf');
+}
+
+* {
+    font-family: 'Open Sans';
+}
+
+.bg-style {
+    box-shadow: 0 0.938em 2.188em rgba(50, 50, 93, .15), 0 0.313em 0.938em rgba(0, 0, 0, .1);
+}
+
+.bag {
+    background-color: #F8F9F9;
+}
